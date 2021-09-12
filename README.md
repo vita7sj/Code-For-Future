@@ -1,4 +1,3 @@
-# Code-For-Future
-Let's build a better future with code！
+libs： <https://github.com/muodov/kociemba>   <https://github.com/asweigart/pyautogui>
 
-Bilibili：https://space.bilibili.com/27673468
+demo：<https://space.bilibili.com/27673468>
